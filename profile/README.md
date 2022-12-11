@@ -9,8 +9,11 @@ URL:
 
 ## Contents
 
-#### OopsAllFemale
+#### [OopsAllFemale](https://github.com/DreanorFFXIV/OopsAllFemale)
 * No more pesky male characters with skimpy clothing
+
+#### [SokenLahee](https://github.com/DreanorFFXIV/SokenLahee)
+* Plays Soken's legendary performance of Lahee whenever you visit The Rak'tika Greatwood
 
 ## Installation
 Assuming you are already using FFXIV quick launcher with it's ingame features enabled follow these steps to add this repository:
