@@ -12,11 +12,11 @@ URL:
 #### [EventCalendar](https://github.com/DreanorFFXIV/EventCalendar)
 * A calendar of in-game events and important dates from the lodestone
 
-#### [SokenLahee](https://github.com/DreanorFFXIV/SokenLahee)
-* Plays Soken's legendary performance of Lahee whenever you visit The Rak'tika Greatwood
-
 #### [OopsAllFemale](https://github.com/DreanorFFXIV/OopsAllFemale)
 * No more pesky male characters with skimpy clothing
+
+#### [SokenLahee](https://github.com/DreanorFFXIV/SokenLahee)
+* Plays Soken's legendary performance of Lahee whenever you visit The Rak'tika Greatwood
 
 ## Installation
 Assuming you are already using FFXIV quick launcher with it's ingame features enabled follow these steps to add this repository:
