@@ -9,6 +9,9 @@ URL:
 
 ## Contents
 
+#### [Altoholic](https://github.com/DreanorFFXIV/Altoholic)
+* Everything you need for your alts
+
 #### [EventCalendar](https://github.com/DreanorFFXIV/EventCalendar)
 * A calendar of in-game events and important dates from the lodestone
 
