@@ -18,6 +18,9 @@ URL:
 #### [OopsAllFemale](https://github.com/DreanorFFXIV/OopsAllFemale)
 * No more pesky male characters with skimpy clothing
 
+#### [Shutdown](https://github.com/DreanorFFXIV/Shutdown)
+* Gracefully exists the game and shuts down PC at set date
+
 #### [SokenLahee](https://github.com/DreanorFFXIV/SokenLahee)
 * Plays Soken's legendary performance of Lahee whenever you visit The Rak'tika Greatwood
 
