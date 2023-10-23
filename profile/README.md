@@ -12,9 +12,6 @@ URL:
 #### [Altoholic](https://github.com/DreanorFFXIV/Altoholic)
 * Everything you need for your alts
 
-#### [EventCalendar](https://github.com/DreanorFFXIV/EventCalendar)
-* A calendar of in-game events and important dates from the lodestone
-
 #### [OopsAllFemale](https://github.com/DreanorFFXIV/OopsAllFemale)
 * No more pesky male characters with skimpy clothing
 
