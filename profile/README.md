@@ -12,9 +12,6 @@ URL:
 #### [Altoholic](https://github.com/DreanorFFXIV/Altoholic)
 * Everything you need for your alts
 
-#### [OopsAllFemale](https://github.com/DreanorFFXIV/OopsAllFemale)
-* No more pesky male characters with skimpy clothing
-
 #### [Shutdown](https://github.com/DreanorFFXIV/Shutdown)
 * Gracefully exists the game and shuts down PC at set date
 
