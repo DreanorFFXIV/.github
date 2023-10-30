@@ -12,7 +12,7 @@ URL:
 #### [Altoholic](https://github.com/DreanorFFXIV/Altoholic)
 * Everything you need for your alts
   
-#### [BetterTargetingSystem](https://github.com/DreanorFFXIV/BetterTargetingSystem)
+#### [BetterTargetingSystemUnlocked](https://github.com/DreanorFFXIV/BetterTargetingSystemUnlocked)
 * A more intelligent targeting system for the game which also includes new keybinds. But now with PvP Unlocked
   
 #### [Shutdown](https://github.com/DreanorFFXIV/Shutdown)
