@@ -9,6 +9,9 @@ URL:
 
 ## Contents
 
+#### [AutoBusy](https://github.com/DreanorFFXIV/AutoBusy)
+* Auto Busy
+
 #### [Altoholic](https://github.com/DreanorFFXIV/Altoholic)
 * Everything you need for your alts
   
