@@ -16,7 +16,7 @@ URL:
 * Everything you need for your alts
   
 #### [BetterTargetingSystemUnlocked](https://github.com/DreanorFFXIV/BetterTargetingSystemUnlocked)
-* A more intelligent targeting system for the game which also includes new keybinds. But now with PvP Unlocked
+* Same as Original but PvP Unlocked and Ninja LB Target
   
 #### [Shutdown](https://github.com/DreanorFFXIV/Shutdown)
 * Gracefully exists the game and shuts down PC at set date
