@@ -17,6 +17,9 @@ URL:
   
 #### [BetterTargetingSystemUnlocked](https://github.com/DreanorFFXIV/BetterTargetingSystemUnlocked)
 * Same as Original but PvP Unlocked and Ninja LB Target
+
+#### [ChatBubblesPvP](https://github.com/DreanorFFXIV/ChatBubblesPvP)
+* ChatBubbles working in PvP
   
 #### [Shutdown](https://github.com/DreanorFFXIV/Shutdown)
 * Gracefully exists the game and shuts down PC at set date
